@@ -3,18 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainintheeast&label=Profile%20views&color=0e75b6&style=flat" alt="rainintheeast" /> </p>
 
-- 🔭 I’m currently working on [my own business](hezxtop.com)
+- 🔭 I’m currently working on [my own business](https://hezxtop.com/)
 
 - 👯 I’m currently studying at **Department of Computational Mathematics and Control， Lomonosov Moscow State University**
 
-- 🌱 I’m currently learning **swarm control**
+- 🌱 I’m currently learning **Robot Swarm Control**
 
-- 📫 How to reach me **handongyu3300@gmail.com**
+- 📫 How to reach me: **handongyu3300@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainintheeast&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainintheeast&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainintheeast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
