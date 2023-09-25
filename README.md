@@ -18,6 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainintheeast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://raw.githubusercontent.com/rainintheeast/rainintheeast/main/assets/github-contribution-grid-snake.svg)
+
 <!--
 **Rainintheeast/Rainintheeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
