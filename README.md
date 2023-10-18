@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainintheeast&label=Profile%20views&color=0e75b6&style=flat" alt="rainintheeast" /> </p>
 
-- 🔭 I’m currently working on [my own business](https://hezxtop.com/).
-
 - 👯 I’m currently studying at **Department of Computational Mathematics and Control，Lomonosov Moscow State University**.
 
 - 🌱 I’m currently learning **Robot Swarm Control**.
